@@ -1,16 +1,15 @@
-### Hi there 👋
+ ### Hi there 👋 I'm Prashant kumar.
 
-<!--
-**Prashant0kgp/Prashant0kgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am just a beginner in development and trying to learn and understand new things.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on coding :wink:
+- 🔭 I’m currently learning frontend part :heart:
+- ⚡ Fun fact: everything is fun fact :100:
+
+![Prashant GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant0kgp&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant0kgp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant0kgp&theme=tokyonight_duo&hide_border=false" alt="Prashant readme streaks" />
+</p>
